@@ -1,0 +1,1 @@
+# A-JavaScript-code-that-is-intended-to-toggle-the-visibility-of-an-element-when-a-button-is-clicked.
